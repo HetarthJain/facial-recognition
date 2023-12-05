@@ -1,7 +1,11 @@
 aug_data
 data
-data1
 lfw
 logs
 pdfs
-resized_img
+cropped_faces
+Dataset
+models
+*.jpg
+*.png
+training_checkpoints
